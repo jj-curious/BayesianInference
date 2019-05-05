@@ -1,7 +1,7 @@
 # BayesianInference
 An introduction to Bayesian Inference in python - containing the theory, probabilistic programming and Bayesian linear regression, including examples. 
   
-**Note:** Sometimes github fails to load/render the juypter notebooks. In this case you can copy-paste the link from the notebook into https://nbviewer.jupyter.org/
+**Note:** Sometimes github fails to load/render the juypter notebooks. In this case you can copy-paste the link from the notebook into https://nbviewer.jupyter.org/ or just click the corresponding link below.
 
 ## Contents / Notebooks
 * Introduction to Bayesian Inference (1)  
