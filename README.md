@@ -13,7 +13,7 @@ Introduction to Bayesian Inference in python, containing the theory, probabilist
   * Probabilistic Programming  
   * Linear Regression - The Frequentist Approach  
   * Linear Regression - The Bayesian Approach  
-    * abc
-* Bayesian Neural Networks
-  * Variational Inference (--- notebook name ---)
-  * MC-Dropout (--- notebook name ---)
+    * Maximum-a-Posteriori Estimation  
+    * Inference with conjugate priors  
+    * Inference with non-conjugate priors  
+  * **Notebook:** *BayesianInference2.ipynb*  
