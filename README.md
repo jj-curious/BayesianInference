@@ -9,6 +9,7 @@ An introduction to Bayesian Inference in python - containing the theory, probabi
   * Priors  
   * Example: Modelling Conversion-Rates with the Beta-Binomial-Model  
   * **Notebook:** *BayesianInference1.ipynb*  
+  * https://nbviewer.jupyter.org/github/jj-curious/BayesianInference/blob/master/BayesianInference1.ipynb
 * Introduction to Bayesian Inference (2)  
   * Probabilistic Programming  
   * Linear Regression - The Frequentist Approach  
