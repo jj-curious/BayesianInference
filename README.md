@@ -15,7 +15,6 @@ An introduction to Bayesian Inference in python - containing the theory, probabi
   * Linear Regression - The Frequentist Approach  
   * Linear Regression - The Bayesian Approach  
     * Maximum-a-Posteriori Estimation  
-    * Inference with conjugate priors  
-    * Inference with non-conjugate priors  
+    * Full Bayesian inference with MCMC
   * **Notebook:** *BayesianInference2.ipynb*  
   * https://nbviewer.jupyter.org/github/jj-curious/BayesianInference/blob/master/BayesianInference2.ipynb
