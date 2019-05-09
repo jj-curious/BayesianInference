@@ -18,3 +18,4 @@ An introduction to Bayesian Inference in python - containing the theory, probabi
     * Inference with conjugate priors  
     * Inference with non-conjugate priors  
   * **Notebook:** *BayesianInference2.ipynb*  
+  * https://nbviewer.jupyter.org/github/jj-curious/BayesianInference/blob/master/BayesianInference2.ipynb
